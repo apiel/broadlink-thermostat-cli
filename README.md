@@ -1,4 +1,4 @@
-## Broadlink thermastat cli
+## Broadlink thermostat cli
 
 Tested on Beok themostat.
 
